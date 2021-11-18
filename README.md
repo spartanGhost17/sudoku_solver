@@ -1,5 +1,5 @@
 # sudoku_solver
-this is a sudoku solver that for a 9x9 board using backtracking 
+this is a sudoku solver for a 9x9 board using backtracking 
 
 # This is a view of the board before it is solved
 
